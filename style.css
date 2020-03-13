@@ -1,0 +1,44 @@
+.container{
+    margin-bottom: 100px;
+}
+.slider-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.price{
+    color: #FF2E7E;
+}
+.btn-buy{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.categories{
+
+}
+
+.categories h2{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(90deg, #FF9E34, #FF9E34);
+}
+.cat2{
+    background-image: linear-gradient(90deg, #FF9E34, #FF277C);
+}
+.cat3{
+    background-image: linear-gradient(90deg, #4289FF, #3F07F8);
+}
